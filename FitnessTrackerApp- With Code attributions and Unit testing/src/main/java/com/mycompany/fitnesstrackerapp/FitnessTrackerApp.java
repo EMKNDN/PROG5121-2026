@@ -3,7 +3,7 @@
 //Author:geeksforgeeks
 //Date:20 January 2026
 //Version:1
-//Availability: insert url
+//Availability: https://www.geeksforgeeks.org/java/constructors-in-java/
 
 //Code attribution
 //OpenAI. 2026.Chat-Gpt (Version 5.3). [Large language model]. 
