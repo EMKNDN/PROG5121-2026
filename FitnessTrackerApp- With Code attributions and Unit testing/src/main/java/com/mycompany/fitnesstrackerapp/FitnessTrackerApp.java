@@ -1,7 +1,7 @@
 //Code attribution
 //Title:Java constructors
 //Author:geeksforgeeks
-//Date:20 january 2026
+//Date:20 January 2026
 //Version:1
 //Availability: insert url
 
